@@ -328,12 +328,18 @@ button:hover {
 }
 
 .container1 {
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 50px;
     flex-direction: column;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
 }
 
 .contact1 {
