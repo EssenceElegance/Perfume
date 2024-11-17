@@ -342,6 +342,12 @@ button:hover {
   padding: 20px;
 }
 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .contact1 {
     width: 700px;
     display: flex;
