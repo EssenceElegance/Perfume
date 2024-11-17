@@ -386,6 +386,7 @@ input[type=submit]:hover {
     width: 40%;
     padding: 40px;
     background: #33a387;
+    align-items: center;
 }
 
 .contactForm h2 {
